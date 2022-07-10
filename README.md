@@ -3,7 +3,7 @@
 ![alt text](https://pbs.twimg.com/media/FXIAb_NUUAAzc5R?format=jpg&name=small)
 
 ## Summary
-- Started miltiple microservices
+- Start miltiple microservices
 - Let them communicate each other using RestTemplate and WebClient (Hard coded URLs)
 - Use the concept of Service Discovery
 - Create a Euraka Server
